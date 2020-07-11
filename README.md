@@ -21,4 +21,5 @@ Using self-made algorithm.
 
 **Works perfectly in general cases. Under developement for special cases and for fitting the definition from* On the Definition and Computation of Rectilinear Convex Hulls, Thomas Ottmann (1984)* **
 
+To see the source code, open Form1.cs file in every editor or click the Form1.cs file in Visual Studio and press F7. This is the place where all the algorithm stays. Program.cs is computer-generated file to make the WinForm works. OrthogonalObject.cs is an unused class. There is also a lot of unsused code in Form1.cs, for further development. Simply ignore it.
 
