@@ -59,7 +59,7 @@ In this problem, things are different. You might think I just have to replace ev
 
 So the way we do this problem must be changed. But it's may not be too hard to do. Now, instead of finding a way to make sure it fits that 3-dots rule, we just have to make sure the dot we are going to connect from a specific dot is **possible to create a right triangle without leaving any dot outside**. 
 
-*Take a note that due to the nature of the Bitmap processing in the WinForm Application I use, the axises is quite different. **The coordinate origin is the top left point of the graph, to the left is positive X, straight down is positive Y.** *
+*Take a note that due to the nature of the Bitmap processing in the WinForm Application I use, the axises is quite different. **The coordinate origin is the top left point of the graph, to the left is positive X, straight down is positive Y.***
 
 ![Alt text](https://github.com/havdhe150692/pictures/blob/master/5.png)
 
