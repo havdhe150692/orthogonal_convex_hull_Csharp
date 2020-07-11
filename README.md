@@ -30,6 +30,8 @@ Run the Draw Test.exe in the Program folder to get an instance of the program.
 
 To see the source code, open Form1.cs file in your prefered editor or click the Form1.cs file in Visual Studio and press F7. This is the place where all the algorithm stays. Program.cs is computer-generated file of which the purpose is simply runs the Form1. OrthogonalObject.cs is an unused class. There is also a lot of unsused code in Form1.cs, for further development. Simply ignore them if you don't want to see.
 
+To change the input, expands the Property to change the number of given dots and the size of the box (the region where the dots spawn).
+
 
 # The Algorithm
 
