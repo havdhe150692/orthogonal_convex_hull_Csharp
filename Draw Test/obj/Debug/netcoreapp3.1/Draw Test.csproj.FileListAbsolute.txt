@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Draw Test\bin\Debug\netcoreapp3.1\Draw Test.exe
+C:\Users\User\source\repos\Draw Test\bin\Debug\netcoreapp3.1\Draw Test.deps.json
+C:\Users\User\source\repos\Draw Test\bin\Debug\netcoreapp3.1\Draw Test.runtimeconfig.json
+C:\Users\User\source\repos\Draw Test\bin\Debug\netcoreapp3.1\Draw Test.runtimeconfig.dev.json
+C:\Users\User\source\repos\Draw Test\bin\Debug\netcoreapp3.1\Draw Test.dll
+C:\Users\User\source\repos\Draw Test\bin\Debug\netcoreapp3.1\Draw Test.pdb
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw_Test.Form1.resources
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.AssemblyInfo.cs
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.dll
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.pdb
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.genruntimeconfig.cache
+C:\Users\User\source\repos\Draw Test\obj\Debug\netcoreapp3.1\Draw Test.csprojAssemblyReference.cache
